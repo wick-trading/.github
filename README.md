@@ -1,0 +1,2 @@
+# .github
+Wick organization profile
